@@ -1,1 +1,1 @@
-all = ["inference"]
+all = ["inference", "preprocessing"]
