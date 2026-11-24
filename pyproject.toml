@@ -3,6 +3,7 @@ name = "mlops-labs"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
+    "click>=8.5.1",
     "pillow>=13.0.0",
     "ruff>=0.17.6",
     "ty>=0.0.108",
